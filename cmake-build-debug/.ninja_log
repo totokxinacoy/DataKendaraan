@@ -1,0 +1,6 @@
+# ninja log v6
+5	488	7542884350315449	build.ninja	a605bddb59711579
+7	590	7539517213139312	CMakeFiles/DataKendaraan.dir/DataKendaraan.c.obj	bafa37b8540f3
+592	1445	7539517218974578	DataKendaraan.exe	1fe5a6156afa3987
+92	241	7542993240378742	CMakeFiles/DataKendaraan.dir/DataKendaraan.c.obj	bafa37b8540f3
+242	373	7542993241880497	DataKendaraan.exe	1fe5a6156afa3987

@@ -1,0 +1,3 @@
+C:/Users/Kristianto Wiranata/CLionProjects/DataKendaraan/cmake-build-debug/CMakeFiles/DataKendaraan.dir
+C:/Users/Kristianto Wiranata/CLionProjects/DataKendaraan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kristianto Wiranata/CLionProjects/DataKendaraan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
